@@ -2,7 +2,7 @@
 <h1></h1>
 <h1 align="center">Hi 👋, I'm Aastha Vashishtha</h1>
 <h3 align="center">On the path to becoming a skilled software developer</h3>
-<img align="center" alt="coding" width="400" src="[https://gifs.alphacoders.com/gifs/view/144618](https://gifs.alphacoders.com/gifs/view/144618)">
+
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
