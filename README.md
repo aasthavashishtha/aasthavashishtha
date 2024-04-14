@@ -1,4 +1,4 @@
-<img align="center" width="400" alt="coding" src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif">
+<img align="center" margin-left="50%" width="400" alt="coding" src="https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif">
 <h1></h1>
 <h1 align="center">Hi 👋, I'm Aastha Vashishtha</h1>
 <h3 align="center">On the path to becoming a skilled software developer</h3>
